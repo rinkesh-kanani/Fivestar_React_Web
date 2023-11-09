@@ -1,0 +1,58 @@
+//Auth
+export const SET_CURRENT_USER = 'SET_CURRENT_USER';
+
+//Topic Details
+export const SET_TOPIC_DETAILS = 'SET_TOPIC_DETAILS';
+export const SET_CATEGORY_TOPICS = 'SET_CATEGORY_TOPICS';
+
+//Master Category
+export const SET_MASTER_DETAILS = 'SET_MASTER_DETAILS';
+export const SET_MASTER_CATEGORY_LIST = 'SET_MASTER_CATEGORY_LIST';
+
+//Prime Category
+export const SET_PRIME_DETAILS = 'SET_PRIME_DETAILS';
+export const SET_PRIME_CATEGORY_LIST = 'SET_PRIME_CATEGORY_LIST';
+export const SET_ALL_MASTER_LIST = 'SET_ALL_MASTER_LIST';
+
+//Sub Category
+export const SET_SUB_DETAILS = 'SET_SUB_DETAILS';
+export const SET_SUB_CATEGORY_LIST = 'SET_SUB_CATEGORY_LIST';
+
+//Email Address
+export const SET_EMAIL_ADDRESS = 'SET_EMAIL_ADDRESS';
+export const SET_EMAIL_ADDRESS_LIST = 'SET_EMAIL_ADDRESS_LIST';
+
+//Email Template
+export const SET_EMAIL_TEMPLATE = 'SET_EMAIL_TEMPLATE';
+export const SET_EDIT_EMAIL_TEMPLATE = 'SET_EDIT_EMAIL_TEMPLATE';
+
+//Order
+export const SET_ORDER_LIST = 'SET_ORDER_LIST';
+export const UPDATE_ORDER_LIST_ITEM = 'UPDATE_ORDER_LIST_ITEM';
+export const SET_SINGLE_ORDER = 'SET_SINGLE_ORDER';
+export const SET_AUTO_COMPANY = 'SET_AUTO_COMPANY';
+
+//Hold
+export const SET_HOLD_LIST = 'SET_HOLD_LIST';
+
+//Client
+export const SET_CLIENT_LIST = 'SET_CLIENT_LIST';
+
+//Freelanchers
+export const SET_FREELANCHERS_LIST = 'SET_FREELANCHERS_LIST';
+
+//Dubai Stock
+export const SET_DUBAI_STOCK_LIST = 'SET_DUBAI_STOCK_LIST';
+export const SET_MEMBERSHIP_LIST = 'SET_MEMBERSHIP_LIST';
+
+//Worldwide Stock
+export const SET_WORLD_WIDE_STOCK_LIST = 'SET_WORLD_WIDE_STOCK_LIST';
+
+//Customer Offer
+export const SET_CUSTOMER_OFFER_LIST = 'SET_CUSTOMER_OFFER_LIST';
+
+//ApprovalList
+export const SET_APPROVAL_LIST = 'SET_APPROVAL_LIST';
+
+//CartList
+export const SET_CART_LIST = 'SET_CART_LIST';
